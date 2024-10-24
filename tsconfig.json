@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "ES2017",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "outDir": "dist",
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "skipLibCheck": true,
+        "strict": true
+    },
+    "include": [
+        "scripts/**/*",
+        "models/**/*"
+    ]
+}
